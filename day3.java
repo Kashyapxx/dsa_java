@@ -1,4 +1,4 @@
-// Basic code using switch case for selecting a day in a week
+// Basic code using switch case for selecting a day in a week.
 import java.util.Scanner;
 
 public class Main {
