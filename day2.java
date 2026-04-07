@@ -1,4 +1,4 @@
-//Basic if else if code for grade generation
+//Basic if else if code for grade generation.
 import java.util.Scanner;
 
 public class Main {
