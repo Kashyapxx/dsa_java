@@ -8,7 +8,7 @@ public class Main
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter marks: ");
-        marks = sc.nextFloat();
+        float marks = sc.nextFloat();
 
         if (marks >= 0 && marks < 25) {
             System.out.println("Grade: F");
