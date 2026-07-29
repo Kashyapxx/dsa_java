@@ -1,4 +1,4 @@
-//Factorial of a number
+//Factorial of a number using while loop
 import java.util.*;
 class Main {
     public static void main(String[] args) {
